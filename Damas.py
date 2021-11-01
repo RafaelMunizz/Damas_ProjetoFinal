@@ -172,7 +172,7 @@ def jogo():
     apresentacao(matriz)
     linha(100)
     print('Vez de X ou ♕                                                                      Nº de Jogadas = 0\n')
-    contador_comidas, comparacao, contagem_jogadas, pecas_x, pecas_o, jogadas, contagem_jogador, verificacao, encerramento = 0, 0, 0, 0, 11, 0, 0, 0, False  # Contadores
+    contador_comidas, comparacao, contagem_jogadas, pecas_x, pecas_o, jogadas, contagem_jogador, verificacao, encerramento = 0, 0, 0, 0, 0, 0, 0, 0, False  # Contadores
 
     numeros_corretos = [1, 2, 3, 4, 5, 6, 7, 8, '1', '2', '3', '4', '5', '6', '7', '8']
 
